@@ -1,5 +1,6 @@
 <template>
   <q-page padding>
+    <h1>Vrsta</h1>
     <!-- content -->
   </q-page>
 </template>
